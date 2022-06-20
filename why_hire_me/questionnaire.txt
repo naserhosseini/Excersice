@@ -1,28 +1,29 @@
 How many years of development experience do you have?
-
+10
 
 How many years of JavaScript experience do you have?
-
+0
 
 How many years of Ruby experience do you have?
-
+0
 
 How many years of other high level language(s) if not Ruby or JavaScript do you have?
-
+0
 
 What are your opinions on Agile software development?
-
+0
 
 TDD or BDD?
-
+0
 
 Do you have any Ruby or Ruby on Rails experience?
-
+0
 
 What are you looking for in a job?
-
+0
 
 Are you legal to work in the US?
-
+tes
 
 When can you start?
+2 weeks
